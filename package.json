@@ -1,0 +1,14 @@
+{
+  "name": "dialogflow-text-bot",
+  "version": "1.0.0",
+  "description": "Example of create a text bot using dialogflow, consumed by Node.js server.",
+  "main": "index.js",
+  "keywords": [],
+  "author": "Doni Rahma Tiana",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/dialogflow": "^3.5.0",
+    "dotenv": "^8.2.0",
+    "uuid": "^8.3.2"
+  }
+}
