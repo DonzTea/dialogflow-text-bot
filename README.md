@@ -49,7 +49,7 @@ Steps to create a bot using dialogflow, consumed by Node.js server.
 
 ![thumbnail 7](screenshots/7.png)
 
-3. set GOOGLE_APPLICATION_CREDENTIALS in `.env` file as directory to generated key you got from <a href="#service-account">this step</a>.
+3. Set GOOGLE_APPLICATION_CREDENTIALS in `.env` file as directory to generated key you got from <a href="#service-account">this step</a>.
 
 4. ```npm install```
 
