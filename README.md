@@ -25,7 +25,7 @@ Steps to create a bot using dialogflow, consumed by Node.js server.
 
 ![thumbnail 2](screenshots/2.png)
 
-1. Create an agent and set the google project.
+2. Create an agent and set the google project.
 
 ![thumbnail 3](screenshots/3.png)
 
